@@ -1,2 +1,3 @@
 # Codewars
-Codewars' exercises.
+
+Problems on Codewars I solved in C.
