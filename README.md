@@ -1,3 +1,3 @@
 # Codewars
 
-Problems on Codewars I solved in C.
+Codewars' problems I solved in C.
